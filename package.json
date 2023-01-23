@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.9.1",
-    "node-ssh": "^13.0.0",
+    "node-ssh": "^13.0.1",
     "slash": "^4.0.0"
   },
   "devDependencies": {
